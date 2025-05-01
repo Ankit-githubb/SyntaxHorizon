@@ -132,10 +132,3 @@ auth-system/
 
 MIT License - feel free to use this project for your own learning and development.
 
-## Author
-
-GitHub : [Samrat Subedi](https://github.com/subedi-samrat)
-LinkedIn : [Samrat Subedi](https://www.linkedin.com/in/samrat-subedi)
----
-
-Made with ❤️ using Next.js and shadcn/ui
